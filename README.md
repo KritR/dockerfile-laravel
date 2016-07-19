@@ -1,2 +1,2 @@
-# dockerfile-laravel
-A small dockerfile for laravel with some extras.
+# Laravel for Docker
+Contains a small dockerfile for laravel with some extras.
